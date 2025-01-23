@@ -16,7 +16,7 @@ if __name__ == "__main__":
     # # player1 = Players.MinMaxPlayer()
     # # player2 = Players.MinMaxPlayerV2()
     # game = Games.AutoGame(player1,player2)
-    
+    ##
     
     
     # game.run_game()
